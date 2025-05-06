@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm @javedshahjee 👋
 
-<!--
-**javedshahjee/Javedshahjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👀 I’m interested in **open-source contributions**, **blogging**, and **SEO content writing**.
+- 🌱 I’m currently learning **Git, GitHub**, and exploring **AI tools** for writing.
+- 💞️ I’m looking to collaborate on **open-source projects** related to tech, blogging, and content creation.
+- 📫 You can reach me at **javedshahjee@example.com** or on **Twitter** at [@javedshahjee](https://twitter.com/javedshahjee).
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I once wrote a blog post that went viral for a week straight!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [Twitter](https://twitter.com/javedshahjee)
+- [LinkedIn](https://linkedin.com/in/javedshahjee)
+- [Quora](https://www.quora.com/profile/Javed-Shah-278)
+- [Fiverr](https://www.fiverr.com/javedshahjee)
