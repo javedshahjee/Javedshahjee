@@ -8,6 +8,8 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I once wrote a blog post that went viral for a week straight!
 
+**[Read more about me](about.md)**
+
 ## Connect with me:
 - [Freelancer](https://www.freelancer.com/u/javedshahjee)
 - [Fiverr](https://www.fiverr.com/javedshahjee)
